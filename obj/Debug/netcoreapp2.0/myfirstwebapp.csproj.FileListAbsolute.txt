@@ -1,0 +1,10 @@
+/root/myfirstwebapp/bin/Debug/netcoreapp2.0/myfirstwebapp.deps.json
+/root/myfirstwebapp/bin/Debug/netcoreapp2.0/myfirstwebapp.runtimeconfig.json
+/root/myfirstwebapp/bin/Debug/netcoreapp2.0/myfirstwebapp.runtimeconfig.dev.json
+/root/myfirstwebapp/bin/Debug/netcoreapp2.0/myfirstwebapp.dll
+/root/myfirstwebapp/bin/Debug/netcoreapp2.0/myfirstwebapp.pdb
+/root/myfirstwebapp/obj/Debug/netcoreapp2.0/myfirstwebapp.csproj.CoreCompileInputs.cache
+/root/myfirstwebapp/obj/Debug/netcoreapp2.0/myfirstwebapp.AssemblyInfoInputs.cache
+/root/myfirstwebapp/obj/Debug/netcoreapp2.0/myfirstwebapp.AssemblyInfo.cs
+/root/myfirstwebapp/obj/Debug/netcoreapp2.0/myfirstwebapp.dll
+/root/myfirstwebapp/obj/Debug/netcoreapp2.0/myfirstwebapp.pdb

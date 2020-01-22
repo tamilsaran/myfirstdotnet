@@ -1,0 +1,12 @@
+/root/myfirstwebapp
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=myfirstwebapp
+--content-root=/root/myfirstwebapp
+--file=/root/myfirstwebapp/Pages/About.cshtml
+--file=/root/myfirstwebapp/Pages/Contact.cshtml
+--file=/root/myfirstwebapp/Pages/Error.cshtml
+--file=/root/myfirstwebapp/Pages/Index.cshtml
+--file=/root/myfirstwebapp/Pages/_Layout.cshtml
+--file=/root/myfirstwebapp/Pages/_ValidationScriptsPartial.cshtml
+--file=/root/myfirstwebapp/Pages/_ViewImports.cshtml
+--file=/root/myfirstwebapp/Pages/_ViewStart.cshtml
